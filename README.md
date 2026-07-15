@@ -2,6 +2,11 @@
 
 GitHub Pages 风格的实验室主页初版，用于展示杭州电子科技大学计算机学院 MLVC 实验室的基本情况。
 
+## Repository
+
+- GitHub repo: `l392y/mlvclib.github.io`
+- Site URL: `https://l392y.github.io/mlvclib.github.io/`
+
 ## Overview
 
 This site is designed in a style similar to `mlvccn/course.github.io`, with:
